@@ -1,0 +1,10 @@
+{
+  "mangas": [
+    {
+      "id": "manga_0",
+      "title": "الفصل التجريبي 0",
+      "cover": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/manga_0/cover.jpg",
+      "zip_url": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/manga_0/0.zip"
+    }
+  ]
+}
