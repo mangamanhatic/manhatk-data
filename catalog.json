@@ -4,13 +4,7 @@
       "id": "solo-leveling",
       "title": "Solo Leveling",
       "cover": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/solo-leveling/cover.jpg",
-      "base_url": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/solo-leveling/"
-    },
-    {
-      "id": "another-manga",
-      "title": "عنوان العمل الجديد",
-      "cover": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/another-manga/cover.jpg",
-      "base_url": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/another-manga/"
+      "zip_url": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/solo-leveling/0.zip"
     }
   ]
 }
