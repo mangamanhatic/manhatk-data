@@ -1,10 +1,16 @@
 {
   "mangas": [
     {
-      "id": "manga_0",
-      "title": "الفصل التجريبي 0",
-      "cover": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/manga_0/cover.jpg",
-      "zip_url": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/manga_0/0.zip"
+      "id": "solo-leveling",
+      "title": "Solo Leveling",
+      "cover": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/solo-leveling/cover.jpg",
+      "base_url": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/solo-leveling/"
+    },
+    {
+      "id": "another-manga",
+      "title": "عنوان العمل الجديد",
+      "cover": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/another-manga/cover.jpg",
+      "base_url": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/another-manga/"
     }
   ]
 }
