@@ -3,8 +3,11 @@
     {
       "id": "solo-leveling",
       "title": "Solo Leveling",
-      "cover": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/solo-leveling/cover.jpg",
-      "zip_url": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/solo-leveling/0.zip"
+      "cover": "...",
+      "chapters": [
+        {"title": "الفصل 0", "url": "https://.../0.zip"},
+        {"title": "الفصل 1", "url": "https://.../1.zip"}
+      ]
     }
   ]
 }
