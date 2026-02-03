@@ -1,13 +1,1 @@
-{
-  "mangas": [
-    {
-      "id": "solo-leveling",
-      "title": "Solo Leveling",
-      "cover": "...",
-      "chapters": [
-        {"title": "الفصل 0", "url": "https://.../0.zip"},
-        {"title": "الفصل 1", "url": "https://.../1.zip"}
-      ]
-    }
-  ]
-}
+
