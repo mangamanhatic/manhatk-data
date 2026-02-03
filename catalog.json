@@ -1,4 +1,10 @@
 {
-  "mangas": []
+  "mangas": [
+    {
+      "id": "test",
+      "title": "test",
+      "cover": "https://raw.githubusercontent.com/mangamanhatic/manhatk-data/main/mangas/test/cover.jpg",
+      "chapters": []
+    }
+  ]
 }
-
